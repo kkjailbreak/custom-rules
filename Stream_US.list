@@ -1,0 +1,23 @@
+DOMAIN-SUFFIX,apptentive.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-KEYWORD,paramount // Paramount+
+DOMAIN-SUFFIX,mtvnservices.com // MTV US
+DOMAIN-SUFFIX,plutotv.net // Pluto TV
+DOMAIN-SUFFIX,pluto.tv // Pluto TV
+DOMAIN-KEYWORD,kocowa // Kocowa US
+DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com // Amazon Prime Video
+DOMAIN-KEYWORD,amazon. // Amazon Prime Video
+DOMAIN-KEYWORD,rakuten // Rakuten
+DOMAIN-KEYWORD,viki // Viki
+DOMAIN-SUFFIX,litix.io // Viki
+DOMAIN-SUFFIX,configcat.com // Viki
+DOMAIN,cdn.privacy-mgmt.com // Viki
+DOMAIN-KEYWORD,tubi // Tubi
+DOMAIN,cdn.adrise.tv // Tubi
+DOMAIN-KEYWORD,starz // Starz
+DOMAIN-SUFFIX,imgix.net // Starz
+DOMAIN-SUFFIX,basis.net // Starz
+DOMAIN-SUFFIX,quantummetric.com // Starz
+DOMAIN-KEYWORD,nbcuas //NBC
+DOMAIN-KEYWORD,nbcuott //NBC
+DOMAIN-KEYWORD,nbcstreaming //NBC

@@ -1,0 +1,31 @@
+DOMAIN,wetvdefaultts.tc.qq.com
+DOMAIN,vibeacon.onezapp.com
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+# DOMAIN,ios.bugly.tencent.com
+# DOMAIN,oth.eve.mdt.qq.com
+# DOMAIN,config.ab.qq.com
+# DOMAIN,fo.iemiq.com
+# DOMAIN,oth.str.mdt.qq.com
+# DOMAIN,tab.video.qq.com
+DOMAIN-SUFFIX,tdos.vip
+DOMAIN,rumt-sg.com
+DOMAIN,api.tpvisim.com
+DOMAIN,www.turingfraud.net
+DOMAIN-SUFFIX,midasbuy.com
+# DOMAIN,data.ab.qq.com
+DOMAIN-KEYWORD,1icvjh-
+DOMAIN,cdn.midasbuy.com
+IP-CIDR,23.45.207.0/16
+# IP-CIDR,129.226.0.0/16
+# IP-CIDR,119.28.0.0/16
+IP-CIDR,18.172.0.0/16
+IP-CIDR,23.54.0.0/16
+IP-CIDR6,2600:9000:2640::/32
+IP-CIDR6,2600:1406:2E00:B::/64
+IP-CIDR6,2600:1406:2E00:4D::/64
+IP-CIDR6,2600:1413:5000:3::/64
+USER-AGENT,WeTV*
+PROCESS-NAME,com.tencent.qqlivei18n
+PROCESS-NAME,com.tencent.qqlivei18n.us
+IP-CIDR,23.53.118.74/32

@@ -1,0 +1,39 @@
+# DOMAIN-KEYWORD,samsung // Samsung US
+# DOMAIN-KEYWORD,galaxyappstore // Galaxy Store US
+DOMAIN-KEYWORD,bankofamerica // BofA
+DOMAIN-KEYWORD,yahoo // Yahoo US
+DOMAIN,guce.oath.com // Yahoo US
+DOMAIN-KEYWORD,verizon // Verizon
+DOMAIN-SUFFIX,vzw.com // Verizon
+DOMAIN-KEYWORD,louisvuitton // Louisvuitton
+DOMAIN-SUFFIX,contentsquare.net // Louisvuitton
+DOMAIN-SUFFIX,visible.com // Visible
+DOMAIN-KEYWORD,t-mobile // T-Mobile
+DOMAIN-KEYWORD,tmobile // T-Mobile
+DOMAIN-KEYWORD,phncdn // SexTube
+DOMAIN,66.254.114.41 // SexTube
+DOMAIN,link.crispywork.com // SexTube
+# DOMAIN,proxy.safebrowsing.apple // Apple
+DOMAIN-KEYWORD,snapchat
+DOMAIN-SUFFIX,tizen.org // Samsung UI
+DOMAIN-SUFFIX,gov // US gov
+DOMAIN-KEYWORD,.fox // Foxnews
+DOMAIN,global.ketchcdn.com
+DOMAIN,http-intake.logs.datadoghq.com
+DOMAIN,ping.chartbeat.net
+DOMAIN-SUFFIX,xe.com // Xe
+DOMAIN-SUFFIX,iterable.com // Xe
+DOMAIN-SUFFIX,trustx.org
+DOMAIN-KEYWORD,totalwireless // TotalbyVerizon
+DOMAIN-KEYWORD,acroipm
+DOMAIN,storefront.ist.1918.berkeley.edu
+DOMAIN-KEYWORD,uscis
+DOMAIN,gov1.siteintercept.qualtrics.com
+DOMAIN-SUFFIX,usvisascheduling.com // usvisa
+DOMAIN-SUFFIX,b2clogin.com // usvisa
+DOMAIN-SUFFIX,usgovcloudapi.net // usvisa
+DOMAIN-SUFFIX,cgiatlas.com // usvisa
+DOMAIN-KEYWORD,usgov // usvisa
+DOMAIN-SUFFIX,powerapps.us
+DOMAIN-SUFFIX,usmobile.com
+DOMAIN-SUFFIX,godaddy.com

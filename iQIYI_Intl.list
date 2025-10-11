@@ -7,6 +7,7 @@ DOMAIN,intl-im-hist-api.iqiyi.com
 DOMAIN,ip-geo.iqiyi.com
 DOMAIN-KEYWORD,oversea.inter.iqiyi.com
 DOMAIN,intl-sns.iqiyi.com
+USER-AGENT,QYPlayer*
 PROCESS-NAME,com.iqiyi.i18n
 PROCESS-NAME,com.iqiyi.i18n.tv
 

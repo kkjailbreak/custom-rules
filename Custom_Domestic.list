@@ -10,4 +10,4 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,wx.qq.com
 DOMAIN,wxapp.tc.qq.com
-DOMAIN-SUFFIX,aiseet.atianqi.com
+#DOMAIN-SUFFIX,aiseet.atianqi.com

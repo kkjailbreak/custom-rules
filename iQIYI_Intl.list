@@ -8,7 +8,6 @@ DOMAIN,ip-geo.iqiyi.com
 # DOMAIN-KEYWORD,oversea.inter.iqiyi.com
 DOMAIN,intl-sns.iqiyi.com
 USER-AGENT,QYPlayer*
-USER-AGENT,HCDNClient_ANDROID_TV*
-USER-AGENT,QK*
+USER-AGENT,HCDNClient_ANDROID_TV;QK*
 PROCESS-NAME,com.iqiyi.i18n
 PROCESS-NAME,com.iqiyi.i18n.tv

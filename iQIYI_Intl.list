@@ -7,6 +7,8 @@ DOMAIN,intl-im-hist-api.iqiyi.com
 DOMAIN,ip-geo.iqiyi.com
 DOMAIN,intl-sns.iqiyi.com
 USER-AGENT,QYPlayer*
+USER-AGENT,QIYIPlayer*
+USER-AGENT,HCDNClient_IOS*
 USER-AGENT,HCDNClient_ANDROID_TV;QK*
 PROCESS-NAME,com.iqiyi.i18n
 PROCESS-NAME,com.iqiyi.i18n.tv

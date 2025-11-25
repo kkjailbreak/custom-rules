@@ -1,5 +1,6 @@
 # DOMAIN-KEYWORD,samsung // Samsung US
 # DOMAIN-KEYWORD,galaxyappstore // Galaxy Store US
+DOMAIN-KEYWORD,firebase-settings // Google Firebase
 DOMAIN,app-analytics-services.com // Google Firebase
 DOMAIN-KEYWORD,bankofamerica // BofA
 DOMAIN-KEYWORD,yahoo // Yahoo US

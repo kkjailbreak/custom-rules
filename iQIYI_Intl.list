@@ -5,6 +5,7 @@ DOMAIN,intl.policy.ptqy.gitv.tv
 DOMAIN,intl-im-hist-api.iqiyi.com
 DOMAIN,ip-geo.iqiyi.com
 DOMAIN,intl-sns.iqiyi.com
+DOMAIN-KEYWORD,oversea.inter.ptqy.gitv.tv
 IP-CIDR,118.26.32.0/22
 IP-CIDR,118.26.120.0/24
 IP-CIDR,118.26.126.0/23

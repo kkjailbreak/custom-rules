@@ -12,9 +12,9 @@ DOMAIN-SUFFIX,contentsquare.net // Louisvuitton
 DOMAIN-SUFFIX,visible.com // Visible
 DOMAIN-KEYWORD,t-mobile // T-Mobile
 DOMAIN-KEYWORD,tmobile // T-Mobile
-DOMAIN-KEYWORD,phncdn // SexTube
-DOMAIN,66.254.114.41 // SexTube
-DOMAIN,link.crispywork.com // SexTube
+# DOMAIN-KEYWORD,phncdn // SexTube
+# DOMAIN,66.254.114.41 // SexTube
+# DOMAIN,link.crispywork.com // SexTube
 # DOMAIN,proxy.safebrowsing.apple // Apple
 DOMAIN-KEYWORD,snapchat
 DOMAIN-SUFFIX,tizen.org // Samsung UI

@@ -5,10 +5,10 @@ DOMAIN,support.tagsssubscribe.com
 DOMAIN,link.nobodys.uk
 DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,wx.qq.com
-DOMAIN,wxapp.tc.qq.com
+# DOMAIN-SUFFIX,wechat.com
+# DOMAIN-SUFFIX,weixin.qq.com
+# DOMAIN-SUFFIX,wx.qq.com
+# DOMAIN,wxapp.tc.qq.com
 # DOMAIN-KEYWORD,ct.inter.ptqy.gitv.tv
 # IP-CIDR,59.39.2.0/16
 # DOMAIN-SUFFIX,aiseet.atianqi.com

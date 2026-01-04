@@ -1,6 +1,5 @@
 DOMAIN-KEYWORD,google // Google US site
 DOMAIN-SUFFIX,samsungconnectivity.com //Samsung US
-# DOMAIN-KEYWORD,galaxyappstore // Galaxy Store US
 DOMAIN-KEYWORD,firebase-settings // Google Firebase
 DOMAIN,app-analytics-services.com // Google Firebase
 DOMAIN-KEYWORD,bankofamerica // BofA
@@ -13,9 +12,6 @@ DOMAIN-SUFFIX,contentsquare.net // Louisvuitton
 DOMAIN-SUFFIX,visible.com // Visible
 DOMAIN-KEYWORD,t-mobile // T-Mobile
 DOMAIN-KEYWORD,tmobile // T-Mobile
-# DOMAIN-KEYWORD,phncdn
-# DOMAIN,66.254.114.41
-# DOMAIN,link.crispywork.com
 DOMAIN-KEYWORD,snapchat
 DOMAIN-SUFFIX,tizen.org // Samsung UI
 DOMAIN-SUFFIX,gov // US gov
@@ -40,3 +36,6 @@ DOMAIN-KEYWORD,usgov // usvisa
 DOMAIN-SUFFIX,powerapps.us
 DOMAIN-SUFFIX,usmobile.com
 DOMAIN-SUFFIX,godaddy.com
+# DOMAIN-KEYWORD,phncdn
+# DOMAIN,66.254.114.41
+# DOMAIN,link.crispywork.com

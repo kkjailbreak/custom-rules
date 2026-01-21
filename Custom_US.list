@@ -28,12 +28,12 @@ DOMAIN,storefront.ist.1918.berkeley.edu
 DOMAIN-KEYWORD,uscis
 DOMAIN-KEYWORD,yelp
 DOMAIN,gov1.siteintercept.qualtrics.com
-DOMAIN-SUFFIX,usvisascheduling.com // usvisa
-DOMAIN-SUFFIX,b2clogin.com // usvisa
-DOMAIN-SUFFIX,usgovcloudapi.net // usvisa
-DOMAIN-SUFFIX,cgiatlas.com // usvisa
-DOMAIN-KEYWORD,usgov // usvisa
-DOMAIN-SUFFIX,powerapps.us
+# DOMAIN-SUFFIX,usvisascheduling.com // usvisa
+# DOMAIN-SUFFIX,b2clogin.com // usvisa
+# DOMAIN-SUFFIX,usgovcloudapi.net // usvisa
+# DOMAIN-SUFFIX,cgiatlas.com // usvisa
+# DOMAIN-KEYWORD,usgov // usvisa
+# DOMAIN-SUFFIX,powerapps.us
 DOMAIN-SUFFIX,usmobile.com
 DOMAIN-SUFFIX,godaddy.com
 # DOMAIN-KEYWORD,phncdn

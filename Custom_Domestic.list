@@ -5,10 +5,10 @@ DOMAIN,support.tagsssubscribe.com
 DOMAIN,link.nobodys.uk
 DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,usvisascheduling.com // usvisa
-DOMAIN-SUFFIX,b2clogin.com // usvisa
-DOMAIN-KEYWORD,usgov // usvisa
-DOMAIN-SUFFIX,cgiatlas.com // usvisa
+# DOMAIN-SUFFIX,usvisascheduling.com // usvisa
+# DOMAIN-SUFFIX,b2clogin.com // usvisa
+# DOMAIN-KEYWORD,usgov // usvisa
+# DOMAIN-SUFFIX,cgiatlas.com // usvisa
 
 # DOMAIN-SUFFIX,wechat.com
 # DOMAIN-SUFFIX,weixin.qq.com

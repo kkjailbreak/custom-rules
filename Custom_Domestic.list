@@ -1,10 +1,15 @@
-DOMAIN,al.autohome.com.cn
+# DOMAIN,al.autohome.com.cn
 DOMAIN,tagcdnsub.work
 DOMAIN,dy.tagsub.net
 DOMAIN,support.tagsssubscribe.com
 DOMAIN,link.nobodys.uk
 DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,usvisascheduling.com // usvisa
+DOMAIN-SUFFIX,b2clogin.com // usvisa
+DOMAIN-SUFFIX,usgovcloudapi.net // usvisa
+DOMAIN-SUFFIX,cgiatlas.com // usvisa
+
 # DOMAIN-SUFFIX,wechat.com
 # DOMAIN-SUFFIX,weixin.qq.com
 # DOMAIN-SUFFIX,wx.qq.com

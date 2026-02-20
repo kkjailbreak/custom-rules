@@ -1,0 +1,14 @@
+# 证书校验 (决定 App 启动速度)
+DOMAIN,pki.goog
+# 静态资源 (gstatic)
+DOMAIN-SUFFIX,gstatic.com
+# 通用 API 接口 (覆盖绝大多数小功能)
+DOMAIN-SUFFIX,googleapis.com
+# 用户内容托管 (照片、附件等)
+DOMAIN-SUFFIX,googleusercontent.com
+# 办公套件
+DOMAIN-KEYWORD,mail.google
+DOMAIN-KEYWORD,drive.google
+DOMAIN-KEYWORD,photos-pa
+# 地图数据
+DOMAIN-KEYWORD,kh.google

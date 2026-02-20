@@ -1,12 +1,12 @@
 # 账号中心
 DOMAIN,myaccount.google.com
 DOMAIN-KEYWORD,accounts.google
-# 支付与订阅
+# 支付与订阅 (Premium 订阅核心)
 DOMAIN,payments.google.com
 DOMAIN,pay.google.com
-# Play 商店
+# 商店
 DOMAIN,play.google.com
-# 关键鉴权与安全校验 (必须在此锁定)
+# 身份鉴权与地理位置上报 (严防漂移)
 DOMAIN,apis.google.com
 DOMAIN,scone-pa.googleapis.com
 DOMAIN,securetoken.googleapis.com

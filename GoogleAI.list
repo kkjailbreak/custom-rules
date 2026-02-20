@@ -1,9 +1,8 @@
-# Gemini Web
+# Gemini Web & API
 DOMAIN,gemini.google.com
-# Gemini API & AI Studio
 DOMAIN,aistudio.google.com
 DOMAIN,ai.google.dev
-# 核心模型接口 (必须先于通用 googleapis 分流)
+# 核心模型接口
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,alkalimessages-pa.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com

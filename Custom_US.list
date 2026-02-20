@@ -1,7 +1,4 @@
-DOMAIN-KEYWORD,google. // Google US site
 DOMAIN-SUFFIX,samsungconnectivity.com //Samsung US
-DOMAIN-KEYWORD,firebase-settings // Google Firebase
-DOMAIN,app-analytics-services.com // Google Firebase
 DOMAIN-KEYWORD,bankofamerica // BofA
 DOMAIN-KEYWORD,yahoo // Yahoo US
 DOMAIN,guce.oath.com // Yahoo US
@@ -28,14 +25,17 @@ DOMAIN,storefront.ist.1918.berkeley.edu
 DOMAIN-KEYWORD,uscis
 DOMAIN-KEYWORD,yelp
 DOMAIN,gov1.siteintercept.qualtrics.com
+DOMAIN-SUFFIX,usmobile.com
+DOMAIN-SUFFIX,godaddy.com
 # DOMAIN-SUFFIX,usvisascheduling.com // usvisa
 # DOMAIN-SUFFIX,b2clogin.com // usvisa
 # DOMAIN-SUFFIX,usgovcloudapi.net // usvisa
 # DOMAIN-SUFFIX,cgiatlas.com // usvisa
 # DOMAIN-KEYWORD,usgov // usvisa
 # DOMAIN-SUFFIX,powerapps.us
-DOMAIN-SUFFIX,usmobile.com
-DOMAIN-SUFFIX,godaddy.com
 # DOMAIN-KEYWORD,phncdn
 # DOMAIN,66.254.114.41
 # DOMAIN,link.crispywork.com
+# DOMAIN-KEYWORD,firebase-settings // Google Firebase
+# DOMAIN,app-analytics-services.com // Google Firebase
+# DOMAIN-KEYWORD,google. // Google US site

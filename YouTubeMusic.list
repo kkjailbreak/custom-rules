@@ -1,8 +1,7 @@
-# YouTube Music 主域名
+# Music 主域名
 DOMAIN,music.youtube.com
-# 音乐 App 专用 API
+# Music 核心鉴权接口 (防止被 YouTube 视频规则或 Sync 通用规则截流)
 DOMAIN,youtubei.googleapis.com
-# 音乐内容分发 CDN (与视频流有重叠，但在 Music 请求中优先)
-DOMAIN-SUFFIX,music.youtube
-# 针对 App 端后台的回调
 DOMAIN-KEYWORD,music-pa.googleapis.com
+# 音乐 CDN
+DOMAIN-SUFFIX,music.youtube

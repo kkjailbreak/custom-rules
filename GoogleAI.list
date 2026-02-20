@@ -1,0 +1,13 @@
+# Gemini 主站
+DOMAIN-SUFFIX,gemini.google.com
+# 核心生成式模型 API
+DOMAIN-KEYWORD,generativelanguage
+# 实时消息与后端交互
+DOMAIN-KEYWORD,alkalimessages-pa
+DOMAIN-KEYWORD,proactivebackend-pa
+DOMAIN-KEYWORD,ia-pa
+# 语音助手与意图识别
+DOMAIN-KEYWORD,assistant-pa
+# AI 开发者平台
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com

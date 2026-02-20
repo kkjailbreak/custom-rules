@@ -1,5 +1,5 @@
 # YouTube 主站
-DOMAIN-KEYWORD,youtube
+# DOMAIN-KEYWORD,youtube
 # DOMAIN-SUFFIX,youtu.be
 # 视频流 (CDN)
 DOMAIN-SUFFIX,googlevideo.com

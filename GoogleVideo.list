@@ -1,0 +1,11 @@
+# YouTube 主站与移动端
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
+# 静态资源与缩略图 (ytimg & ggpht)
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.googleapis.com
+# YouTube Music
+DOMAIN-SUFFIX,music.youtube.com

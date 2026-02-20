@@ -1,15 +1,15 @@
-# 证书校验 (决定所有 Google App 启动速度)
+# 证书校验与启动加速
 DOMAIN,pki.goog
-# 静态资源 (字体、脚本)
+# 静态资源 (gstatic)
 DOMAIN-SUFFIX,gstatic.com
-# 办公与内容托管 (Gmail/Drive/Photos)
+# 内容托管 (Photos/Drive 内容)
+DOMAIN-SUFFIX,googleusercontent.com
+# 卫星地图 (Keyhole 缩写 kh)
+DOMAIN-SUFFIX,kh.google.com
+DOMAIN-SUFFIX,khm.google.com
+# 办公套件关键字
 DOMAIN-KEYWORD,mail.google
 DOMAIN-KEYWORD,drive.google
 DOMAIN-KEYWORD,photos-pa
-# 地图卫星图层 (Keyhole 缩写，确定是 kh)
-DOMAIN-SUFFIX,kh.google.com
-DOMAIN-SUFFIX,khm.google.com
-# 内容托管
-DOMAIN-SUFFIX,googleusercontent.com
-# 兜底所有剩下的 API (如翻译、基础地图 API 等)
+# 兜底所有剩下的 API (所有没被 AI/Auth/Music 抓走的 googleapis 子域名)
 DOMAIN-SUFFIX,googleapis.com

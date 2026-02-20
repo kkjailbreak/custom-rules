@@ -1,0 +1,12 @@
+# 账号中心与登录
+DOMAIN-KEYWORD,accounts.google
+DOMAIN,myaccount.google.com
+# 支付与订阅管理
+DOMAIN,payments.google.com
+DOMAIN,pay.google.com
+# Play 商店
+DOMAIN,play.google.com
+# 地理位置上报 (风控核心)
+DOMAIN,scone-pa.googleapis.com
+# 身份校验 API
+DOMAIN,apis.google.com

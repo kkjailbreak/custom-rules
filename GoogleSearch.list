@@ -1,6 +1,7 @@
 DOMAIN,google.com
 DOMAIN,www.google.com
 ## Others
+DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com

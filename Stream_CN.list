@@ -1,7 +1,7 @@
 // iQIYI
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN,msg.qy.net
-DOMAIN-SUFFIX,inter.71edge.com
+# DOMAIN-SUFFIX,inter.71edge.com
 IP-CIDR,101.224.0.0/13
 IP-CIDR,103.44.56.0/22
 IP-CIDR,103.5.34.153/32
@@ -25,7 +25,7 @@ IP-CIDR,23.40.242.10/32
 IP-CIDR,23.53.32.88/32
 # USER-AGENT,QIYI*
 # USER-AGENT,iQiYi*
-PROCESS-NAME,com.qiyi.video
+# PROCESS-NAME,com.qiyi.video
 
 // TencentVideo
 USER-AGENT,qqlive*

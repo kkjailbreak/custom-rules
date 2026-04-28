@@ -40,9 +40,3 @@ DOMAIN-KEYWORD,biliapi
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
-
-// HunanTV
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HunanTV/HunanTV.list
-
-// IPTV
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IPTVMainland/IPTVMainland.list

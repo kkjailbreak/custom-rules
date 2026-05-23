@@ -5,7 +5,8 @@ DOMAIN-SUFFIX,mtvnservices.com // MTV US
 DOMAIN-SUFFIX,plutotv.net // Pluto TV
 DOMAIN-SUFFIX,pluto.tv // Pluto TV
 DOMAIN-KEYWORD,kocowa // Kocowa US
-DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com // Amazon Prime Video
+DOMAIN-SUFFIX,video.a2z.com
+DOMAIN-SUFFIX,devices.a2z.com // Amazon Prime Video
 DOMAIN-KEYWORD,amazon. // Amazon Prime Video
 DOMAIN-KEYWORD,rakuten // Rakuten
 DOMAIN-KEYWORD,viki // Viki

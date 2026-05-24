@@ -25,7 +25,7 @@ DOMAIN,storefront.ist.1918.berkeley.edu
 DOMAIN-KEYWORD,uscis
 DOMAIN-KEYWORD,yelp
 DOMAIN,gov1.siteintercept.qualtrics.com
-DOMAIN-SUFFIX,usmobile.com
+DOMAIN-KEYWORD,usmobile // US Mobile
 DOMAIN-SUFFIX,godaddy.com
 # DOMAIN-SUFFIX,usvisascheduling.com // usvisa
 # DOMAIN-SUFFIX,b2clogin.com // usvisa

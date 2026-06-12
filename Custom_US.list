@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,bing.com // Bing Search
+DOMAIN-SUFFIX,bing.net // Bing Search
 DOMAIN-KEYWORD,stripe // Stripe
 DOMAIN-KEYWORD,cloudflare // Cloudflare
 DOMAIN-SUFFIX,icanhazip.com // ip checking

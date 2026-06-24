@@ -1,0 +1,14 @@
+# Instagram / Meta Licensed Audio related domains for Surge
+# Single-proxy version: use one policy group for this whole ruleset.
+# Do NOT reject graph/gateway domains.
+
+DOMAIN,graph.facebook.com
+DOMAIN,graph.instagram.com
+DOMAIN,gateway.instagram.com
+DOMAIN,test-gateway.instagram.com
+
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,cdninstagram.com

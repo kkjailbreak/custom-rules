@@ -1,0 +1,10 @@
+DOMAIN,apple-relay.apple.com // Apple Intelligence
+DOMAIN,apple-relay.cloudflare.com // Apple Intelligence
+DOMAIN,apple-relay.fastly-edge.com // Apple Private Relay
+OMAIN-SUFFIX,siftscience.com // Claude
+DOMAIN-SUFFIX,x.ai // xAI
+DOMAIN-KEYWORD,prodregistry // Grok
+DOMAIN-KEYWORD,featureassets // Grok
+DOMAIN-SUFFIX,intercom.com // Grok
+DOMAIN-SUFFIX,meta.ai // Meta AI
+DOMAIN-SUFFIX,perplexity.ai // Perplexity

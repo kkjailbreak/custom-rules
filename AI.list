@@ -3,7 +3,7 @@ DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 ## Claude
-OMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,siftscience.com
 ## Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,prodregistry

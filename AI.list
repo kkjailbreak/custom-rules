@@ -3,7 +3,7 @@ DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 ## OpenAI
-DOMAIN,api.oaistatsig.com
+DOMAIN-SUFFIX,oaistatsig.com
 ## Claude
 DOMAIN-SUFFIX,siftscience.com
 ## Grok

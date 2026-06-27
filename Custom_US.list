@@ -2,10 +2,6 @@ DOMAIN-SUFFIX,bing.com // Bing Search
 DOMAIN-SUFFIX,bing.net // Bing Search
 DOMAIN-KEYWORD,stripe // Stripe
 DOMAIN-KEYWORD,cloudflare // Cloudflare
-DOMAIN-SUFFIX,icanhazip.com // ip checking
-DOMAIN,api.123169.xyz // ip checking
-DOMAIN,i.111666.best // ip checking
-DOMAIN,cf.999831.xyz // ip checking
 DOMAIN-SUFFIX,samsungconnectivity.com // Samsung US
 DOMAIN-KEYWORD,bankofamerica // BofA
 DOMAIN-KEYWORD,yahoo // Yahoo US
@@ -35,15 +31,3 @@ DOMAIN-KEYWORD,yelp
 DOMAIN,gov1.siteintercept.qualtrics.com
 DOMAIN-KEYWORD,usmobile // US Mobile
 DOMAIN-SUFFIX,godaddy.com
-# DOMAIN-SUFFIX,usvisascheduling.com // usvisa
-# DOMAIN-SUFFIX,b2clogin.com // usvisa
-# DOMAIN-SUFFIX,usgovcloudapi.net // usvisa
-# DOMAIN-SUFFIX,cgiatlas.com // usvisa
-# DOMAIN-KEYWORD,usgov // usvisa
-# DOMAIN-SUFFIX,powerapps.us
-# DOMAIN-KEYWORD,phncdn
-# DOMAIN,66.254.114.41
-# DOMAIN,link.crispywork.com
-# DOMAIN-KEYWORD,firebase-settings // Google Firebase
-# DOMAIN,app-analytics-services.com // Google Firebase
-# DOMAIN-KEYWORD,google. // Google US site

@@ -2,9 +2,12 @@
 # Single-proxy version: use one policy group for this whole ruleset.
 # Do NOT reject graph/gateway domains.
 
+DOMAIN-SUFFIX,meta.com
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com

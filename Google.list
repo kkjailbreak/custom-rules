@@ -1,14 +1,27 @@
+# Google domains
 DOMAIN-KEYWORD,google.
+
+# Google infrastructure
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,ampproject.org
+
+# Google download / update infra
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,gvt4.com
 DOMAIN-SUFFIX,gvt5.com
 DOMAIN-SUFFIX,gvt6.com
 DOMAIN-SUFFIX,gvt7.com
+DOMAIN-SUFFIX,gvt8.com
 DOMAIN-SUFFIX,gvt9.com
+
+# Optional
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,goo.gle
+DOMAIN-SUFFIX,1e100.net

@@ -1,10 +1,5 @@
-# YouTube 主站
-DOMAIN,youtube.com
-DOMAIN,www.youtube.com
-DOMAIN,s.youtube.com
-DOMAIN,youtu.be
-# 视频流 (CDN)
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
 DOMAIN-KEYWORD,googlevideo
-# 静态资源与图片
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com

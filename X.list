@@ -1,0 +1,27 @@
+# NAME: X
+# DESC: X / Twitter / Grok / xAI
+# TYPE: Surge Rule Set
+
+# Core
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+
+# Media / CDN
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twvid.com
+
+# Internal / legacy but still useful
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twitteroauth.com
+
+# X Pro / legacy official product
+DOMAIN-SUFFIX,tweetdeck.com
+
+# Grok / xAI
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com

@@ -3,6 +3,7 @@ DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 ## OpenAI
 DOMAIN-SUFFIX,oaistatsig.com
 ## Claude

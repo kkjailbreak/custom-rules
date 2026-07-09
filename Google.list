@@ -1,6 +1,7 @@
 # Google domains
 DOMAIN-KEYWORD,google.
 DOMAIN,about.google
+DOMAIN-SUFFIX,withgoogle.com
 
 # Google infrastructure
 DOMAIN-SUFFIX,googleapis.com

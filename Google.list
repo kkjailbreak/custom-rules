@@ -1,12 +1,12 @@
 # Google domains
-DOMAIN-KEYWORD,google.
-DOMAIN,about.google
-DOMAIN-SUFFIX,withgoogle.com
+DOMAIN-KEYWORD,google
+# DOMAIN,about.google
+# DOMAIN-SUFFIX,withgoogle.com
 
 # Google infrastructure
-DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleusercontent.com
+# DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,ampproject.org
 
@@ -27,4 +27,4 @@ DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,goo.gle
 DOMAIN-SUFFIX,1e100.net
-DOMAIN-SUFFIX,googletagmanager.com
+# DOMAIN-SUFFIX,googletagmanager.com

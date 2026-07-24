@@ -5,10 +5,7 @@ DOMAIN,intl.policy.ptqy.gitv.tv
 DOMAIN,intl-im-hist-api.iqiyi.com
 # DOMAIN,ip-geo.iqiyi.com
 DOMAIN,intl-sns.iqiyi.com
+DOMAIN,intl-subscription.iqiyi.com
 # DOMAIN-KEYWORD,oversea.inter.ptqy.gitv.tv
 USER-AGENT,QYPlayer*
 USER-AGENT,QIYIPlayer*
-# USER-AGENT,HCDNClient_IOS*
-# USER-AGENT,HCDNClient_ANDROID*
-PROCESS-NAME,com.iqiyi.i18n
-PROCESS-NAME,com.iqiyi.i18n.tv

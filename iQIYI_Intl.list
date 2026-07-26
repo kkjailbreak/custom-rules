@@ -7,5 +7,6 @@ DOMAIN,intl-im-hist-api.iqiyi.com
 DOMAIN,intl-sns.iqiyi.com
 DOMAIN,intl-subscription.iqiyi.com
 DOMAIN-KEYWORD,oversea.inter.iqiyi.com
+ICDR,148.153.30.0/16
 USER-AGENT,QYPlayer*
 USER-AGENT,QIYIPlayer*

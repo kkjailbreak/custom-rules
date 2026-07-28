@@ -8,5 +8,3 @@ DOMAIN,intl-sns.iqiyi.com
 DOMAIN,intl-subscription.iqiyi.com
 DOMAIN-KEYWORD,oversea.inter.iqiyi.com
 IP-CIDR,148.153.30.0/24
-USER-AGENT,QYPlayer*
-USER-AGENT,QIYIPlayer*

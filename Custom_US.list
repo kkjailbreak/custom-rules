@@ -30,3 +30,4 @@ DOMAIN-KEYWORD,yelp
 DOMAIN,gov1.siteintercept.qualtrics.com
 DOMAIN-KEYWORD,usmobile // US Mobile
 DOMAIN-SUFFIX,godaddy.com
+USER-AGENT,BofA*

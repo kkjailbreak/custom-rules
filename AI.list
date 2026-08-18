@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,siftscience.com
 ## Grok
 DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,prodregistry
 DOMAIN-KEYWORD,featureassets
 DOMAIN-SUFFIX,intercom.com

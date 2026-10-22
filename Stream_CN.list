@@ -28,9 +28,9 @@ IP-CIDR,23.53.32.88/32
 # PROCESS-NAME,com.qiyi.video
 
 // Tencent
-DOMAIN,music.y.qq.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,y.qq.com
 USER-AGENT,qqlive*
 USER-AGENT,3.9.0.02428
 PROCESS-NAME,QQLive*

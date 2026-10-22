@@ -27,7 +27,9 @@ IP-CIDR,23.53.32.88/32
 # USER-AGENT,iQiYi*
 # PROCESS-NAME,com.qiyi.video
 
-// TencentVideo
+// Tencent
+DOMAIN,music.y.qq.com
+DOMAIN,tencentmusic.com
 USER-AGENT,qqlive*
 USER-AGENT,3.9.0.02428
 PROCESS-NAME,QQLive*

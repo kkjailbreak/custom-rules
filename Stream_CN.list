@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,qqmusic.qq.com
 DOMAIN-SUFFIX,y.qq.com
+DOMAIN,aqqmusic.tc.qq.com
 USER-AGENT,qqlive*
 USER-AGENT,3.9.0.02428
 PROCESS-NAME,QQLive*

@@ -29,7 +29,8 @@ IP-CIDR,23.53.32.88/32
 
 // Tencent
 DOMAIN,music.y.qq.com
-DOMAIN,tencentmusic.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,qqmusic.qq.com
 USER-AGENT,qqlive*
 USER-AGENT,3.9.0.02428
 PROCESS-NAME,QQLive*
